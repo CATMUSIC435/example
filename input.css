@@ -41,3 +41,7 @@
 #property-carousel .splide__arrow {
   display: none !important;
 }
+
+.splide__pagination {
+    display: none!important;
+}
